@@ -8,7 +8,7 @@ A ideia é fornecer endpoints para criar, listar e buscar URLs.
 
 ## 🚀 Tecnologias utilizadas
 
-- Java 17+
+- Java 21
 - Spring Boot 3.4
 - Spring Data MongoDB
 - MongoDB
